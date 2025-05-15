@@ -1,0 +1,9 @@
+<!-- /var/www/html/index.html -->
+<html>
+<head>
+    <title>Teste de Segurança</title>
+</head>
+<body>
+    <h1>Bem-vindo ao Servidor Inseguro</h1>
+</body>
+</html>
